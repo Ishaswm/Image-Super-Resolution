@@ -36,9 +36,9 @@ PIL (Pillow) | Image format manipulation
 <img width="402" alt="Screenshot 2025-04-15 at 9 16 47 PM" src="https://github.com/user-attachments/assets/5e6c694a-6b1a-4734-b3c3-20ad7902a03d" />
 
 # 📈 Future Improvements
-• Expand dataset diversity for better generalization.
-• Explore model fine-tuning for domain-specific use (medical/satellite).
-• Optimize for low-end devices by reducing computational complexity.
+1. Expand dataset diversity for better generalization.
+2. Explore model fine-tuning for domain-specific use (medical/satellite).
+3. Optimize for low-end devices by reducing computational complexity.
 
 # 📜 References
 
